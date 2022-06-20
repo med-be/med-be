@@ -32,7 +32,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/med-be">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="med-be :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=med-be&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="med-be :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/med-be">
