@@ -9,7 +9,7 @@
        alt="snake" /></a>
 </div>
 
-<details>
+
   <summary>☎️ contact me</summary>
 <div>
   <samp>
@@ -23,9 +23,8 @@
     </p>
   </samp>
 </div>
-</details>
 
-<details> 
+
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -42,4 +41,4 @@
        </p>
      <br>
   </div>    
-</details>
+
