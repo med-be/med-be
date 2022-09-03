@@ -9,6 +9,10 @@
        alt="snake" /></a>
 </div>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/med-be/count.svg" />
+</p>
 
   <summary>☎️ contact me</summary>
 <div>
