@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/med-be">
-  <img src="/resources/grid-snake.svg" alt="snake">
+  <img src="/resource/grid-snake.svg" alt="snake">
   </a>
 </div>
 
